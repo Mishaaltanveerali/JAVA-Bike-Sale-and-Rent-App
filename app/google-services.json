@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104532055055",
+    "project_id": "biker-application",
+    "storage_bucket": "biker-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104532055055:android:7ebc6043c116254334bf7a",
+        "android_client_info": {
+          "package_name": "com.example.bikerapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104532055055-banrcqqel16pf667ripp9hu5sn7bdj0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRKFcMRoesJdplVC0XO2cskR_IybsmLSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104532055055-banrcqqel16pf667ripp9hu5sn7bdj0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
